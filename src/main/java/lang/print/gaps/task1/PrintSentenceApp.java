@@ -1,6 +1,10 @@
 package lang.print.gaps.task1;
 
+import java.sql.SQLOutput;
+
 public class PrintSentenceApp {
-    public static void main(String[] args) {
+    public static void main(String[] args){
+        System.out.println("This" + "\n" + "is" + "\n" + "my" + "\n" + "first" + "\n" + "Java" + "\n" + "program");
     }
+
 }
